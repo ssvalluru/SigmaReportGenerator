@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<project-report>
+    <projects-cancelled-count>1</projects-cancelled-count>
+    <projects-completed-count>2</projects-completed-count>
+    <projects-active-count>2</projects-active-count>
+    <completed-project-report>
+        <completed-project>
+            <projectId>Proj-Covid</projectId>
+            <tasks-count>1</tasks-count>
+            <startDate>01/15/2020</startDate>
+            <endDate>08/15/2020</endDate>
+            <staff-count>0</staff-count>
+            <contractor-count>1</contractor-count>
+            <employees>
+                <employee>Stay Home</employee>
+            </employees>
+        </completed-project>
+        <completed-project>
+            <projectId>Proj-ShoppingCart</projectId>
+            <tasks-count>2</tasks-count>
+            <startDate>11/13/2019</startDate>
+            <endDate>12/15/2019</endDate>
+            <staff-count>1</staff-count>
+            <contractor-count>1</contractor-count>
+            <employees>
+                <employee>Steve Gates</employee>
+                <employee>Elon Jobs</employee>
+            </employees>
+        </completed-project>
+    </completed-project-report>
+</project-report>

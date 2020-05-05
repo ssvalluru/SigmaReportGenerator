@@ -1,0 +1,24 @@
+- Project Data 04/25/2020
+Task-1234,Proj-Payments,02/12/2020
+Task-1235,Proj-Payments,02/14/2020
+Task-14253,Proj-Payments,02/17/2020
+Task-2535,Proj-Payments,01/13/2020,02/12/2020
+Task-1435,Proj-ShoppingCart,12/12/2019,12/15/2019
+Task-1435,Proj-ShoppingCart,Elon Jobs,ejobs@apple.tesla,staff
+Task-1536,Proj-ShoppingCart,11/13/2019,12/02/2019
+Task-1536,Proj-ShoppingCart,Steve Gates,steve@microsoft.com,contract
+
+- Invalid Data
+Task-8745, , ,   ,
+
+-Project Data 04/26/2020
+Task-155,Proj-Devices,02/12/2020
+Task-47457,Proj-Devices,02/14/2020
+Task-45734,Proj-Devices,01/17/2020
+Task-8632,Proj-Devices,01/16/2020,02/12/2020
+Task-74854,Proj-Devices,12/12/2019,12/15/2019
+Task-74854,Proj-Devices,Narendra Trump,ntrump@us.gov,staff
+Task-4757,Proj-Devices,11/13/2019,12/02/2019
+Task-4757,Proj-Devices,Nikola Einstein,nikola@quantum.arc,contract
+Proj-Religion,cancelled
+
